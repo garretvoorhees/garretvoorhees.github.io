@@ -1,0 +1,13 @@
+# Site settings
+title: Garret Voorhees
+email: info@garretvoorhees.com
+description: > # this means to ignore newlines until "baseurl:"
+  Designer & typographer
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://127.0.0.1:4000/" # the base hostname & protocol for your site
+twitter_username: gtvrhs
+github_username:  garretvoorhees
+
+# Build settings
+markdown: kramdown
+permalink: /project/:title

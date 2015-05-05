@@ -1,0 +1,48 @@
+---
+layout: default
+---
+
+<div class="home">
+
+<div class="side-projects">
+	<div class="by-day">
+		<h4>By Day</h4>
+		<ul>
+			<li>
+			<h3><a href="http://www.chapterthree.com">Chapter Three</a></h3>
+			<p>Senior Designer & UX Strategist</p>
+			</li>
+		</ul>
+	</div>
+	<div class="by-night">
+		<h4>By Night (and weekends)</h4>
+		<ul>
+			<li>
+			<h3><a href="http://www.mixcloud.com/digthisradio">Dig This!</a></h3>
+			<p>Jazz/funk/hip-hop/etc. from across the cosmos, since 2006.</p>
+			</li>
+			<li>
+			<h3><a href="http://www.gameandtype.com/">Game&Type</a></h3>
+			<p>A living archive of typography and user interface design in video games.</p>
+			</li>
+			<li>
+			<h3><a href="https://screener.ly/">Screenerly</a></h3>
+			<p>a living archive of typography and user interface design in video games.</p>
+			</li>
+		</ul>
+	</div>
+</div>
+
+<h4 class="clear center">Various Works</h4>
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+	      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+	      <img src="{{ post.thumb }}">
+	      <h3>{{ post.title }}</h3>
+	      </a>
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>
