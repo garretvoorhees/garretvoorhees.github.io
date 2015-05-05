@@ -1,7 +1,7 @@
 # Site settings
 title: Garret Voorhees
 email: info@garretvoorhees.com
-description: > # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines until "baseurl: ok"
   Designer & typographer
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://garretvoorhees.github.com" # the base hostname & protocol for your site
