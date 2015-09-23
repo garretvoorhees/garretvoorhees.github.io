@@ -32,6 +32,10 @@ body {
 }
 
 
+p{
+	color:$text-color;
+}
+
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
@@ -40,7 +44,7 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-    margin-bottom: $spacing-unit / 2;
+    margin-bottom: $spacing-unit;
 }
 
 
@@ -96,6 +100,14 @@ h1{
 	font-weight:600px;
 }
 
+h2{
+	font-size:24px;
+	line-height:40px;
+	color:$green-color;
+	margin-bottom:1.5em;
+	max-width:30em;
+}
+
 h3{
 	font-weight: 600;
 	font-size:18px;
@@ -104,10 +116,11 @@ h3{
 
 h4{
 	font-weight: 600;
-	font-size: 14px;
+	font-size: 13px;
 	text-transform: uppercase;
 	letter-spacing: .08em;
-	color:#CFCFCF;
+	color:#37383A;
+	margin-bottom:.4em;
 }
 
 .dark-text{
@@ -120,13 +133,15 @@ h4{
 a {
     color: $green-color;
     text-decoration: none;
+    transition: all 0.2s ease;
 
     &:visited {
-        color: darken($green-color, 15%);
+        color: darken($green-color, 10%);
     }
 
     &:hover {
-        color: lighten($green-color, 10%);
+        color: darken($green-color, 80%);
+        text-decoration: underline;
     }
 }
 

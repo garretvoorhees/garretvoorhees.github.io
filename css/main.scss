@@ -8,25 +8,29 @@
 // Our variables
 $base-font-family: 'Whitney SSm A', 'Whitney SSm B', Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
-$small-font-size:  14px;
-$base-line-height: 1.5;
+$small-font-size:  13px;
+$base-line-height: 1.6;
 
 $spacing-unit:     30px;
 
-$text-color:       #B6B6B6;
-$background-color: #2E2F32;
-$brand-color:      #2a7ae2;
+$text-color:       #5B5B5B;
+$background-color: #EDEDED;
+$brand-color:      #58C847;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
-$green-color:      #4CDA37;
+$hr-color:         #D5D5D5;
+$green-color:      #58C847;
 
 // Width of the content area
 $content-width:    100%;
+$max-width:		   1200px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
+
+$spacing-unit:     2em;
 
 
 
