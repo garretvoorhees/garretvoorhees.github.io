@@ -205,6 +205,17 @@
 	float:left;
 }
 
+.bio-details ul li{
+	display:block;
+	width:100%;
+	border-top:1px solid $hr-color;
+	padding:.75em 0 .5em 0;
+}
+
+.bio-details ul li:last-child{
+	border-bottom:1px solid $hr-color;
+}
+
 .headshot{
 	width:100%;
 	margin-bottom:2em;
@@ -212,13 +223,6 @@
 
 .headshot img{
 	width:100%;
-}
-
-.bio-details ul li{
-	display:block;
-	width:100%;
-	border-top:1px solid $hr-color;
-	padding:.75em 0 .5em 0;
 }
 
 .bio-text{
