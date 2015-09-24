@@ -1,0 +1,15 @@
+---
+layout: project
+title:  "Balloons"
+thumb: /projects/balloons/thumb.jpg
+---
+What started as an innocent exercise to improve my tablet dexterity quickly morphed into a behemoth project of great interest.
+
+To date, I've drawn over 200 balloons for friends and family, members of TheRoot42 and Fiverr, and freelance clients.
+
+[View Project](http://www.google.com.com/ "View Project")
+
+<img src="/projects/balloons/balloon_02.jpg">
+*This is a caption for this image and it might be some text.*
+
+![](/projects/balloons/balloon_03.jpg)

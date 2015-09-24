@@ -159,19 +159,24 @@
  * Project Page
  */
 .project{
-	width:90%;
+	width:100%;
 	margin:0 auto;
 }
 
 .project-meta{
-	width:30%;
-	float:left;
-	margin-right:5%;
 }
 
 .post-content{
-	width:65%;
+	width:100%;
+	clear:both;
 	float:left;
+}
+
+.post-content img{
+	margin-bottom:2em;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
 }
 
 /**
@@ -271,11 +276,10 @@
  */
 .post-header {
     margin-bottom: $spacing-unit;
+    text-align: center;
 }
 
 .post-title {
-    font-size: 24px;
-    line-height: 1;
 
     @include media-query($on-laptop) {
         font-size: 36px;
