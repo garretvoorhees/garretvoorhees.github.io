@@ -8,6 +8,10 @@
 	border-bottom:1px solid $hr-color;
 }
 
+.site-header a:hover{
+	text-decoration: none;
+}
+
 .logo-wrapper{
 	padding-top:1.5em;
 	float:left;
