@@ -1,0 +1,12 @@
+---
+layout: project
+title:  "Samsara"
+thumb: /projects/samsara/samsara-thumb.jpg
+---
+Some stuff about the project goes here.
+
+[View Project](http://www.barakasamsara.com "View Project")
+
+<figure><img src="/projects/projectname/projectname_01.jpg">
+<figcaption>This is an optional caption.</figcaption>
+</figure>
