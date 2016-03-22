@@ -1,28 +1,31 @@
 ---
 layout: default
 ---
+<div class="info-page">
+
 <div class="bio-wrapper">
 
-<div class="bio-details">
-<div class="headshot"><img src="headshot.jpg"></div>
-{% include socmed.html %}
-</div>
+	<div class="bio-details">
+		<div class="headshot"><img src="headshot.jpg"></div>
+		{% include socmed.html %}
+	</div><!-- END bio-details -->
+	
+	<div class="bio-main">
+	
+		<div class="bio-text">
+		{% include bio.html %}
+		</div>
+		
+		<div class="influences">
+		{% include influences.html %}
+		</div>
+		
+		<div class="colophon">
+		{% include colophon.html %}
+		</div>
+	
+	</div><!-- END bio-main -->
 
-<div class="bio-main">
+</div><!-- END bio-wrapper -->
 
-<div class="bio-text">
-{% include bio.html %}
-</div>
-
-
-<div class="influences">
-{% include influences.html %}
-</div>
-
-<div class="colophon">
-{% include colophon.html %}
-</div>
-
-</div>
-
-</div>
+</div><!-- END info-page -->

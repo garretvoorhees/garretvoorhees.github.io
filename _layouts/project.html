@@ -19,10 +19,16 @@ layout: default
   </article>
 
 {% if page.previous.url %} 
-    <a class="prev" href="{{page.previous.url}}">Previous Project</a> 
+    <div class="prev-wrapper">
+	    <span class="icon-arrow_back"></span>
+	    <a class="prev" href="{{page.previous.url}}">Previous</a>
+    </div> 
   {% endif %}
 {% if page.next.url %} 
-    <a class="next" href="{{page.next.url}}">Next Project</a> 
+    <div class="next-wrapper">
+	    <span class="icon-arrow_forward"></span>
+	    <a class="next" href="{{page.next.url}}">Next</a>
+    </div>
   {% endif %}
   
 </div>

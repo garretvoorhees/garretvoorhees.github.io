@@ -130,7 +130,7 @@ h2{
 
 h3{
 	font-weight: 200;
-	font-size:18px;
+	font-size:16px;
 	margin-top:.5em;
 	margin-bottom:.5em;
 	text-align: center;
@@ -162,7 +162,7 @@ a {
     }
 
     &:hover {
-        color: darken($green-color, 80%);
+        color: darken($green-color, 25%);
         text-decoration: underline;
     }
 }

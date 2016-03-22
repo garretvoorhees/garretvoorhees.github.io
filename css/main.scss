@@ -23,12 +23,12 @@ $green-color:      #58C847;
 
 // Width of the content area
 $content-width:    100%;
-$max-width:		   1200px;
+$max-width:		   1080px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
 
-$spacing-unit:     2em;
+$spacing-unit:     30px;
 
 
 
@@ -53,3 +53,5 @@ $spacing-unit:     2em;
         "layout",
         "syntax-highlighting"
 ;
+
+@import "webfonts.css" ;

@@ -2,10 +2,16 @@
  * Site header
  */
 .site-header {
+	width:1020px;
 	max-width: $max-width;
 	height:4.5em;
 	margin: 0 auto;
 /* 	border-bottom:1px solid $hr-color; */
+}
+
+.site-header a:hover{
+	text-decoration: none;
+	color: darken($green-color, 25%);
 }
 
 .logo-wrapper{
@@ -24,9 +30,7 @@
 	color:$green-color;
 }
 
-.site-header a:hover{
-	text-decoration: none;
-}
+
 
 .tagline{
 	float:left;
@@ -35,6 +39,14 @@
 
 .site-nav {
     float: right;
+}
+
+.site-nav li a, .site-nav li a:visited{
+	color:$green-color;
+}
+
+.site-nav li a:hover{
+	color: darken($green-color, 25%);
 }
 
 .site-nav ul li{
@@ -50,6 +62,7 @@
 	padding-top:1em;
 	border-top:.5em solid $green-color;
 }
+
 
 /**
  * Site footer
@@ -83,7 +96,7 @@
 }
 
 .post-list {
-	width:auto;
+	width:1080px;
 	height:auto;
 	margin:0 auto;
     list-style: none;
@@ -140,6 +153,8 @@
  * Info Page
  */
 .info-page {
+width:1020px;
+margin:0 auto;
 } 
  
  
