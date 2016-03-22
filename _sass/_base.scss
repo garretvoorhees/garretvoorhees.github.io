@@ -46,7 +46,6 @@ p{
 }
 
 .project p{
-max-width:42em;
 margin:0 auto;
 margin-bottom:$spacing-unit;
 }
@@ -92,7 +91,10 @@ figure > img {
 }
 
 figcaption {
-    font-size: $small-font-size;
+	color:$text-color;
+    font-size: $base-font-size;
+    text-align: center;
+    font-style: italic;
 }
 
 
