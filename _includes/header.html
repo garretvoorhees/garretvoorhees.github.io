@@ -4,10 +4,12 @@
     	<p class="tagline">Designer & Typographer</p>
     </div>
     
+{% assign current = page.url | downcase | split: '/' %}
+    
     <nav class="site-nav">
 		<ul>
-			<li><a href="/">work</a></li>
-			<li><a href="/info">info</a></li>
+			<li {% if current[1] == 'project' or page.url == "/" %}class='current'{% endif %}><a href='/'>Work</a></li>
+			<li {% if current[1] == 'info' %}class='current'{% endif %}><a href='/info'>Info</a></li>
 		</ul>
     </nav>
 </header>
