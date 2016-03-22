@@ -30,8 +30,6 @@
 	color:$green-color;
 }
 
-
-
 .tagline{
 	float:left;
 	color:$grey-color;
@@ -147,6 +145,41 @@
 	display:block;
 	margin-left:auto;
 	margin-right:auto;
+}
+
+/* NEXT AND PREVIOUS */
+.prev-wrapper, .next-wrapper{
+	position:fixed;
+	top:45%;
+	width:100px;
+	text-align: center;
+}
+
+.prev-wrapper{
+	left:15px;
+}
+
+.next-wrapper{
+	right:15px;
+}
+
+.prev-wrapper:hover a, .next-wrapper:hover a{
+	text-decoration: none; 
+}
+
+.prev-wrapper H4, .next-wrapper H4{
+	color:$grey-color;
+	transition: all 0.2s ease;
+}
+
+.prev-wrapper:hover H4, .next-wrapper:hover H4, .prev-wrapper:hover span, .next-wrapper:hover span{
+	color:$green-color;
+}
+
+.prev-wrapper span, .next-wrapper span{
+color:$grey-color;
+font-size:50px;
+transition: all 0.2s ease;
 }
 
 /**

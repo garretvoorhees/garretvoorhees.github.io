@@ -20,14 +20,18 @@ layout: default
 
 {% if page.previous.url %} 
     <div class="prev-wrapper">
+	    <a class="prev" href="{{page.previous.url}}">
 	    <span class="icon-arrow_back"></span>
-	    <a class="prev" href="{{page.previous.url}}">Previous</a>
+	    <h4>Previous</h4>
+	    </a>
     </div> 
   {% endif %}
 {% if page.next.url %} 
     <div class="next-wrapper">
+	    <a class="next" href="{{page.next.url}}">
 	    <span class="icon-arrow_forward"></span>
-	    <a class="next" href="{{page.next.url}}">Next</a>
+	    <h4>Next</h4>
+	    </a>
     </div>
   {% endif %}
   
