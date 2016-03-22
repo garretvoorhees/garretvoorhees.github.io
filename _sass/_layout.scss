@@ -6,7 +6,7 @@
 	max-width: $max-width;
 	height:4.5em;
 	margin: 0 auto;
-/* 	border-bottom:1px solid $hr-color; */
+	border-bottom:1px solid $hr-color;
 }
 
 .site-header a:hover{
@@ -292,6 +292,7 @@ margin:0 auto;
 }
 
 .post-title {
+font-weight: 600;
 
     @include media-query($on-laptop) {
         font-size: 36px;
