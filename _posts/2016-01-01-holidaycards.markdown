@@ -3,7 +3,9 @@ layout: project
 title:  "Holiday Cards"
 thumb: /projects/holidaycards/holidaycards_thumb.jpg
 ---
+<div class="project-description">
 <p>A series of holiday cards.</p>
+</div>
 
 <figure><img src="/projects/holidaycards/holidaycards_2015.jpg"></figure>
 
