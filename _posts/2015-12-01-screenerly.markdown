@@ -3,10 +3,10 @@ layout: project
 title:  "Screenerly"
 thumb: /projects/screenerly/screenerly-thumb.jpg
 ---
-Description of the project goes here.
+<div class="project-description">
+<p>Branding and full UI/UX design for a startup that manages secure screeners for the TV and film industry.</p>
+<a class="button" href="https://screener.ly/">Visit Screener.ly</a>
+</div>
 
-[View Project](http://www.screener.ly "View Project")
-
-<figure><img src="/projects/projectname/projectname_01.jpg">
-<figcaption>This is an optional caption.</figcaption>
+<figure><img src="/projects/screenerly/screenerly_01.jpg">
 </figure>
