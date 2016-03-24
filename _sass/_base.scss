@@ -153,6 +153,11 @@ h4{
 	margin-bottom:.4em;
 }
 
+.footer-text{
+	text-align: center;
+	color:$grey-color;
+}
+
 .dark-text{
 	color:#515151;
 }
@@ -194,6 +199,14 @@ a {
 	background-color:$green-color;
 	text-decoration: none;
 	color:white;
+}
+
+.icon{
+	float:left;
+	display:block;
+	font-size:20px;
+	margin-top:1px;
+	margin-right:5px;
 }
 
 /**
