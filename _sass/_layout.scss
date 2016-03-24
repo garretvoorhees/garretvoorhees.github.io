@@ -80,19 +80,6 @@
  * Homepage
  */
 
-
-
-/**
- * Page content
- */
-.page-content {
-    clear:both;
-    width:100%;
-    margin:0 auto;
-   	max-width: $max-width;
-    padding: $spacing-unit 0;
-}
-
 .post-list {
 	width:1080px;
 	height:auto;
@@ -111,6 +98,13 @@
 .post-list li img{
 	width:300px;
 	height:300px;
+	transition: all 0.2s ease;
+}
+
+.post-list li img:hover{
+	-webkit-box-shadow: 0px 2px 15px 0px rgba(50, 50, 50, 0.5);
+	-moz-box-shadow:    0px 2px 15px 0px rgba(50, 50, 50, 0.5);
+	box-shadow:         0px 2px 15px 0px rgba(50, 50, 50, 0.5); 
 }
 
 /* This is the label under the thumbnails on homepage */
@@ -119,7 +113,19 @@
 }
 
 .post-link:hover{
-	text-decoration: none; 
+	text-decoration: none;
+}
+
+
+/**
+ * Page content
+ */
+.page-content {
+    clear:both;
+    width:100%;
+    margin:0 auto;
+   	max-width: $max-width;
+    padding: $spacing-unit 0;
 }
 
 
