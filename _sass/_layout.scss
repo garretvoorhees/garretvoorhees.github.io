@@ -246,6 +246,14 @@ margin:0 auto;
 	float:left;
 }
 
+.bio-details a:hover, .bio-details a:visited:hover{
+	color: $green-color-dark;
+}
+
+.bio-details a:visited{
+	color: $green-color;
+}
+
 .bio-details ul li {
 	display:block;
 	width:100%;
