@@ -39,7 +39,8 @@
     float: right;
 }
 
-.site-nav li a, .site-nav li a:visited{
+.site-nav li a,
+.site-nav li a:visited{
 	color:$green-color;
 }
 
@@ -141,7 +142,7 @@
 }
 
 .project-description{
-	width:42em;
+	width:38em;
 	margin:0 auto;
 	margin-bottom: 2*$spacing-unit;
 }
@@ -149,11 +150,10 @@
 .post-content {
 	width:100%;
 	clear:both;
-	float:left;
 }
 
 .post-content img {
-	margin-bottom:2em;
+	margin-bottom: $spacing-unit;
 	display:block;
 	margin-left:auto;
 	margin-right:auto;
@@ -172,7 +172,8 @@
 */
 
 /* NEXT AND PREVIOUS */
-.prev-wrapper, .next-wrapper{
+.prev-wrapper,
+.next-wrapper{
 	position:fixed;
 	top:45%;
 	width:100px;
@@ -180,27 +181,33 @@
 }
 
 .prev-wrapper{
-	left:15px;
+	left: $spacing-unit / 2;
 }
 
 .next-wrapper{
-	right:15px;
+	right: $spacing-unit / 2;
 }
 
-.prev-wrapper:hover a, .next-wrapper:hover a{
+.prev-wrapper:hover a,
+.next-wrapper:hover a{
 	text-decoration: none; 
 }
 
-.prev-wrapper H4, .next-wrapper H4{
+.prev-wrapper H4,
+.next-wrapper H4{
 	color:$grey-color;
 	transition: all 0.2s ease;
 }
 
-.prev-wrapper:hover H4, .next-wrapper:hover H4, .prev-wrapper:hover span, .next-wrapper:hover span{
+.prev-wrapper:hover H4,
+.next-wrapper:hover H4,
+.prev-wrapper:hover span,
+.next-wrapper:hover span{
 	color:$green-color;
 }
 
-.prev-wrapper span, .next-wrapper span{
+.prev-wrapper span,
+.next-wrapper span{
 color:$grey-color;
 font-size:50px;
 transition: all 0.2s ease;
@@ -246,7 +253,8 @@ margin:0 auto;
 	float:left;
 }
 
-.bio-details a:hover, .bio-details a:visited:hover{
+.bio-details a:hover,
+.bio-details a:visited:hover{
 	color: $green-color-dark;
 }
 
@@ -284,11 +292,6 @@ margin:0 auto;
 	padding-bottom:4em;
 }
 
-.influences H4 {
-	color:#515151;
-	margin-bottom:20px;
-}
-
 .influences-list {
 	color: #858585;
 	font-size:$small-font-size;
@@ -304,14 +307,16 @@ margin:0 auto;
     column-gap: 			40px;
 }
 
+.influences H4,
+.colophon H4 {
+	color:#515151;
+	margin-bottom:20px;
+}
+
 .colophon {
 	border-top:1px solid $hr-color;
 	padding-top:1em;
 	font-size:$small-font-size;
-}
-
-.colophon h4 {
-	margin-bottom:20px;
 }
 
 
