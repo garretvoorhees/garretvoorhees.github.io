@@ -102,7 +102,8 @@
 	transition: all 0.2s ease;
 }
 
-.post-list li img:hover{
+.post-list li img:hover,
+.project-post-list li img:hover{
 	-webkit-box-shadow: 0px 2px 15px 0px rgba(50, 50, 50, 0.5);
 	-moz-box-shadow:    0px 2px 15px 0px rgba(50, 50, 50, 0.5);
 	box-shadow:         0px 2px 15px 0px rgba(50, 50, 50, 0.5); 
@@ -115,6 +116,46 @@
 
 .post-link:hover{
 	text-decoration: none;
+}
+
+
+/* PROJECT POST LIST */
+.project-post-list{
+	max-width:1080px;
+	height:auto;
+	margin:0 auto;
+	margin-top: $spacing-unit*4;
+	list-style:none;
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:center;
+	align-content: flex-start;
+	
+	> li {
+    	width:150px;
+        float:left;
+        margin-bottom: $spacing-unit / 2;
+        margin-left: $spacing-unit / 2 ;
+        margin-right: $spacing-unit / 2;
+    }
+}
+
+.project-post-list li img{
+	transition: all 0.2s ease;
+}
+
+.project-post-list p{
+	text-align: center;
+	font-size: 14px;
+	margin-top: $spacing-unit/4;
+}
+
+#current img{
+	border:5px solid $green-color;
+}
+
+#current p{
+	font-weight: 600;
 }
 
 
@@ -212,6 +253,7 @@ color:$grey-color;
 font-size:50px;
 transition: all 0.2s ease;
 }
+
 
 /**
  * Info Page
