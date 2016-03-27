@@ -4,20 +4,13 @@ title:  "Holiday Cards"
 thumb: /projects/holidaycards/holidaycards_thumb.jpg
 ---
 <div class="project-description">
-<p>A series of holiday cards.</p>
+<p>For the last few years I've created custom illustrations for <a target="_blank" href="https://www.chapterthree.com/">Chapter Three's</a> holiday cards, featuring our favorite fuzzy co-workers.</p>
 </div>
 
-<figure><img src="/projects/holidaycards/holidaycards_2015.jpg"></figure>
+<figure><img src="/projects/holidaycards/holidaycards_2015.jpg">
+<figcaption>Bento, Oliwier, Peewee (2015)</figcaption>
+</figure>
 
-<div class="3-col">
-<figure><img src="/projects/holidaycards/holidaycards_2015a.jpg"></figure>
-<figure><img src="/projects/holidaycards/holidaycards_2015b.jpg"></figure>
-<figure><img src="/projects/holidaycards/holidaycards_2015c.jpg"></figure>
-</div>
-
-<figure><img src="/projects/holidaycards/holidaycards_2014.jpg"></figure>
-
-<div class="2-col">
-<figure><img src="/projects/holidaycards/holidaycards_2014a.jpg"></figure>
-<figure><img src="/projects/holidaycards/holidaycards_2014b.jpg"></figure>
-</div>
+<figure><img src="/projects/holidaycards/holidaycards_2014.jpg">
+<figcaption>Oliwier and Bento (2014)</figcaption>
+</figure>

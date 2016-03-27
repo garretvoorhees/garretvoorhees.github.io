@@ -86,6 +86,10 @@ img {
 /**
  * Figures
  */
+figure{
+	margin-bottom: $spacing-unit * 2;
+}
+ 
 figure > img {
     display: block;
 }
