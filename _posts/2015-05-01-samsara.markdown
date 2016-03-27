@@ -3,10 +3,12 @@ layout: project
 title:  "Samsara"
 thumb: /projects/samsara/samsara-thumb.jpg
 ---
-Some stuff about the project goes here.
+<div class="project-description">
+<p>I had the pleasure of designing the website for Ron Fricke's award-winning film, <a target="_blank" href="http://www.imdb.com/title/tt0770802/">Samsara</a>. The site features behind the scenes videos about the film and an interactive map of filming locations from Samsara and his previous film, <a target="_blank" href="http://www.imdb.com/title/tt0103767/">Baraka</a>.</p>
+<a class="button" href="http://www.barakasamsara.com">Visit Site</a>
+</div>
 
-[View Project](http://www.barakasamsara.com "View Project")
-
-<figure><img src="/projects/projectname/projectname_01.jpg">
-<figcaption>This is an optional caption.</figcaption>
-</figure>
+<figure><img src="/projects/samsara/samsara_01.png"></figure>
+<figure><img src="/projects/samsara/samsara_02.png"></figure>
+<figure><img src="/projects/samsara/samsara_03.png"></figure>
+<figure><img src="/projects/samsara/samsara_04.png"></figure>
