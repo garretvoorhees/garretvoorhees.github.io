@@ -2,6 +2,10 @@
 layout: project
 title:  "Game&Type"
 thumb: /projects/gameandtype/gameandtype-thumb.jpg
+tags:
+- web
+- design
+- ux
 ---
 <div class="project-description">
 <p>Game&Type is an ongoing project that I created to discuss, analyze, and archive UI/UX design and typography in video games. The site features interviews with game designers and developers, critical articles, and a large archive of game interfaces spanning multiple decades.</p>

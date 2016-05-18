@@ -1,0 +1,27 @@
+---
+layout: project
+title:  "Bay Area Video Coalition"
+thumb: /projects/bavc/bavc-thumb.jpg
+tags:
+- web
+- design
+---
+<div class="project-description">
+<p>The Bay Area Video Coalition (BAVC) is an awesome local non-profit that provides training for creative professionals, operates youth programs and generally supports creative people. I was responsible for the entire strategy and responsive design process, including new information architecture and a full visual redesign.</p>
+<a class="button btn-center" target="_blank" href="http://www.bavc.org">Visit BAVC</a>
+</div>
+
+<figure><img src="/projects/bavc/bavc_01.png"></figure>
+<figure><img src="/projects/bavc/bavc_02.png"></figure>
+<figure><img src="/projects/bavc/bavc_03.jpg"></figure>
+<figure><img src="/projects/bavc/bavc_04.jpg"></figure>
+<figure><img src="/projects/bavc/bavc_05.jpg"></figure>
+<figure><img src="/projects/bavc/bavc_06.jpg"></figure>
+<figure><img src="/projects/bavc/bavc_07.jpg"></figure>
+<figure><img src="/projects/bavc/bavc_08.jpg"></figure>
+<figure><img src="/projects/bavc/bavc_09.jpg"></figure>
+<figure><img src="/projects/bavc/bavc_10.jpg"></figure>
+<figure><img src="/projects/bavc/bavc_11.png"></figure>
+<figure><img src="/projects/bavc/bavc_12.jpg"><figcaption>A small excerpt from the site's style guide.</figcaption></figure>
+<figure><img src="/projects/bavc/bavc_13.jpg"><figcaption>Site map for the primary navigation.</figcaption></figure>
+<figure><img src="/projects/bavc/bavc_14.jpg"><figcaption>Some of the wireframes created for the Learn section.</figcaption></figure>

@@ -2,6 +2,9 @@
 layout: project
 title:  "There's A Dog In The House"
 thumb: /projects/dog/thumb.jpg
+tags:
+- print
+- design
 ---
 <div class="project-description">
 <p>I designed this book, from cover to cover, for interior designer Nancy Chwiecko. It's a practical guide to designing living spaces to better accommodate your furry friends.</p>

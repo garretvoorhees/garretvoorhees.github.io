@@ -1,0 +1,18 @@
+---
+layout: project
+title:  "Xenio"
+thumb: /projects/xenio/xenio-thumb.jpg
+tags:
+- web
+- design
+---
+<div class="project-description">
+<p>Xenio is developing some interesting technology to enhance smart buildings. I was responsible for the entire strategy and design process for this exciting new startup.</p>
+<a class="button btn-center" target="_blank" href="http://www.xeniocorp.com">Visit Xenio</a>
+</div>
+
+<figure><img src="/projects/xenio/xenio_01.png"></figure>
+<figure><img src="/projects/xenio/xenio_02.jpg"></figure>
+<figure><img src="/projects/xenio/xenio_03.jpg"></figure>
+<figure><img src="/projects/xenio/xenio_04.jpg"></figure>
+<figure><img src="/projects/xenio/xenio_05.jpg"></figure>

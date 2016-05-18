@@ -2,6 +2,8 @@
 layout: project
 title:  "Holiday Cards"
 thumb: /projects/holidaycards/holidaycards_thumb.jpg
+tags:
+- illustration
 ---
 <div class="project-description">
 <p>For the last few years I've created custom illustrations for <a target="_blank" href="https://www.chapterthree.com/">Chapter Three's</a> holiday cards, featuring our favorite fuzzy co-workers.</p>

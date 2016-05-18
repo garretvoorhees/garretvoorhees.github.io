@@ -2,6 +2,8 @@
 layout: project
 title:  "Stepping Stories"
 thumb: /projects/steppingstories/steppingstories-thumb.jpg
+tags:
+- illustration
 ---
 <div class="project-description">
 <p>Developed a modular and friendly art style for a series of educational children's books. Produced illustrations for three books and did the core branding for the project.</p>
