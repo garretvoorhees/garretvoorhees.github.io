@@ -12,6 +12,6 @@ tags:
 </div>
 
 <figure><img src="/projects/samsara/samsara_01.png"></figure>
-<figure><img src="/projects/samsara/samsara_02.png"></figure>
-<figure><img src="/projects/samsara/samsara_03.png"></figure>
-<figure><img src="/projects/samsara/samsara_04.png"></figure>
+<figure><img src="/projects/samsara/samsara_02.jpg"></figure>
+<figure><img src="/projects/samsara/samsara_03.jpg"></figure>
+<figure><img src="/projects/samsara/samsara_04.jpg"></figure>
