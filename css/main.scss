@@ -12,7 +12,7 @@ $small-font-size:  13px;
 $base-line-height: 1.6;
 
 $text-color:       #5B5B5B;
-$background-color: #EDEDED;
+$background-color: #F6F6F6;
 $brand-color:      #58C847;
 
 $grey-color:       #828282;
@@ -26,8 +26,9 @@ $green-color-dark: darken($green-color, 25%);
 $content-width:    100%;
 $max-width:		   1080px;
 
-$on-palm:          600px;
+$on-palm:          650px;
 $on-laptop:        800px;
+$on-desktop:	   1900px;
 
 $spacing-unit:     30px;
 
@@ -55,4 +56,5 @@ $spacing-unit:     30px;
         "syntax-highlighting"
 ;
 
+@import "normalize.css";
 @import "webfonts.css" ;

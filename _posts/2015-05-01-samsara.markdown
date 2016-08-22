@@ -11,7 +11,9 @@ tags:
 <a class="button btn-center" target="_blank" href="http://www.barakasamsara.com">Visit Site</a>
 </div>
 
+<div class="project-images">
 <figure><img src="/projects/samsara/samsara_01.png"></figure>
 <figure><img src="/projects/samsara/samsara_02.jpg"></figure>
 <figure><img src="/projects/samsara/samsara_03.jpg"></figure>
 <figure><img src="/projects/samsara/samsara_04.jpg"></figure>
+</div>

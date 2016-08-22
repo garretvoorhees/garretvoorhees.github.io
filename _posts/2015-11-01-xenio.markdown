@@ -11,8 +11,10 @@ tags:
 <a class="button btn-center" target="_blank" href="http://www.xeniocorp.com">Visit Xenio</a>
 </div>
 
+<div class="project-images">
 <figure><img src="/projects/xenio/xenio_01.png"></figure>
 <figure><img src="/projects/xenio/xenio_02.jpg"></figure>
 <figure><img src="/projects/xenio/xenio_03.jpg"></figure>
 <figure><img src="/projects/xenio/xenio_04.jpg"></figure>
 <figure><img src="/projects/xenio/xenio_05.jpg"></figure>
+</div>

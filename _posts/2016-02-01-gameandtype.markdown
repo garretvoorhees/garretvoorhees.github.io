@@ -12,7 +12,9 @@ tags:
 <a class="button btn-center" target="_blank" href="http://www.gameandtype.com">Visit Site</a>
 </div>
 
+<div class="project-images">
 <figure><img src="/projects/gameandtype/gameandtype_01.jpg"></figure>
 <figure><img src="/projects/gameandtype/gameandtype_02.jpg"></figure>
 <figure><img src="/projects/gameandtype/gameandtype_03.jpg"></figure>
 <figure><img src="/projects/gameandtype/gameandtype_04.jpg"></figure>
+</div>

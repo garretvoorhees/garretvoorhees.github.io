@@ -8,7 +8,9 @@ thumb: /projects/screenerly/screenerly-thumb.jpg
 <a target="_blank" class="button btn-center" href="https://screener.ly/">Visit Site</a>
 </div>
 
+<div class="project-images">
 <figure><img src="/projects/screenerly/screenerly_01.jpg"></figure>
 <figure><img src="/projects/screenerly/screenerly_03.jpg"></figure>
 <figure><img src="/projects/screenerly/screenerly_02.jpg"></figure>
 <figure><img src="/projects/screenerly/screenerly_04.jpg"></figure>
+</div>

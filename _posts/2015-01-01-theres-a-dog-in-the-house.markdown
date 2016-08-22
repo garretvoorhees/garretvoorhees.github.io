@@ -12,6 +12,7 @@ tags:
 <a target="_blank" class="button btn-center" href="http://www.amazon.com/Theres-Dog-House-Practical-Creating/dp/0615395856/">Buy a Copy</a>
 </div>
 
+<div class="project-images">
 <figure><img src="/projects/dog/dog_01.jpg"></figure>
 <figure><img src="/projects/dog/dog_02.jpg"></figure>
 <figure><img src="/projects/dog/dog_03.jpg"></figure>
@@ -19,3 +20,4 @@ tags:
 <figure><img src="/projects/dog/dog_05.jpg"></figure>
 <figure><img src="/projects/dog/dog_06.jpg"></figure>
 <figure><img src="/projects/dog/dog_07.jpg"></figure>
+</div>

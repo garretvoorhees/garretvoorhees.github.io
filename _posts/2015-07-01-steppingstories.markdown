@@ -10,6 +10,7 @@ tags:
 <a class="button btn-center" target="_blank" href="https://steppingstories.com">Visit Site</a>
 </div>
 
+<div class="project-images">
 <figure><img src="/projects/steppingstories/steppingstories_01.jpg"></figure>
 <figure><img src="/projects/steppingstories/steppingstories_02.jpg"></figure>
 <figure><img src="/projects/steppingstories/steppingstories_03.jpg"></figure>
@@ -17,3 +18,4 @@ tags:
 <figure><img src="/projects/steppingstories/steppingstories_05.jpg"></figure>
 <figure><img src="/projects/steppingstories/steppingstories_06.jpg"></figure>
 <figure><img src="/projects/steppingstories/steppingstories_07.jpg"><figcaption>The illustrations were modular to accommodate an array of skin tones and hair colors.</figcaption></figure>
+</div>
