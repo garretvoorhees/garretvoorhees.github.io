@@ -19,7 +19,7 @@ dl, dd, ol, ul, figure {
  */
 body {
 	-webkit-text-size-adjust: 100%;
-    padding:0 30px 0 30px;
+    padding:0;
     font-family: $base-font-family;
     font-size: $base-font-size;
     line-height: $base-line-height;
@@ -184,7 +184,7 @@ a {
 
 .button{
 	display:inline-block;
-	padding:10px 15px;
+	padding:10px 15px 8px 15px;
 	color:$green-color;
 	border:2px solid $green-color;
 	font-weight: 600;

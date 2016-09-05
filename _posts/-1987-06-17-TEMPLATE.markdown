@@ -3,10 +3,13 @@ layout: project
 title:  "Project Name"
 thumb: /projects/projectname/projectname-thumb.jpg
 ---
-Description of the project goes here.
+<div class="project-description">
+<p>Description of the project goes here.</p>
 
 [View Project](http://www.google.com "View Project")
+</div>
 
+<div class="project-images">
 <figure><img src="/projects/projectname/projectname_01.jpg"><figcaption>This is a caption for this image and it might be some text.</figcaption></figure>
 
 <figure><img src="/projects/projectname/projectname_01.jpg"></figure>
@@ -19,3 +22,4 @@ Description of the project goes here.
 <figure><img src="/projects/projectname/projectname_08.jpg"></figure>
 <figure><img src="/projects/projectname/projectname_09.jpg"></figure>
 <figure><img src="/projects/projectname/projectname_10.jpg"></figure>
+</div>
