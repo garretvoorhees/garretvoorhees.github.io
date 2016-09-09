@@ -8,6 +8,7 @@ tags:
 ---
 <div class="project-description">
 <p>Xenio is developing some interesting technology to enhance smart buildings. I was responsible for the entire strategy and design process for this exciting new startup.</p>
+<p>Work done while employed by <a target="_blank" href="https://www.chapterthree.com/">Chapter Three</a>.</p>
 <a class="button btn-center" target="_blank" href="http://www.xeniocorp.com">Visit Xenio</a>
 </div>
 

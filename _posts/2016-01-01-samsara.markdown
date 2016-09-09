@@ -8,6 +8,7 @@ tags:
 ---
 <div class="project-description">
 <p>I had the pleasure of designing the website for Ron Fricke's award-winning film, <a target="_blank" href="http://www.imdb.com/title/tt0770802/">Samsara</a>. The site features behind the scenes videos about the film and an interactive map of filming locations from Samsara and his previous film, <a target="_blank" href="http://www.imdb.com/title/tt0103767/">Baraka</a>.</p>
+<p>Work done while employed by <a target="_blank" href="https://www.chapterthree.com/">Chapter Three</a>.</p>
 <a class="button btn-center" target="_blank" href="http://www.barakasamsara.com">Visit Site</a>
 </div>
 

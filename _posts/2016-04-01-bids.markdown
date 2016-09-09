@@ -1,0 +1,31 @@
+---
+layout: project
+title:  "Berkeley Institute for Data Science"
+thumb: /projects/bids/bids-thumb.jpg
+---
+<div class="project-description">
+<p>The <em>Berkeley Institute for Data Science</em> (BIDS) is a central hub of research that connects data science fellows with researchers across the UC Berkeley campus. I designed an identity and website that expresses their unique organization, while still following Berkeley's brand guidelines.</p>
+
+<p>I was responsible for all of the content strategy, information architecture, UX, and visual design of the site, working closely with the BIDS team to deliver a site that could grow over time.</p>
+<p>Work done while employed by <a target="_blank" href="https://www.chapterthree.com/work/berkeley-institute-for-data-science-bids">Chapter Three</a>.</p>
+
+<a class="button btn-center" target="_blank" href="http://bids.berkeley.edu">Visit BIDS</a>
+</div>
+
+<div class="project-images">
+<figure><img src="/projects/bids/bids_branding_01.jpg"><figcaption>Early (rough!) sketches and concept exploration.</figcaption></figure>
+<figure><img src="/projects/bids/bids_branding_02.jpg"><figcaption>First round of logo design. This included several different conceptual directions.</figcaption></figure>
+<figure><img src="/projects/bids/bids_branding_03.jpg"><figcaption>Second round of logo design, after narrowing things down to two concepts. This included evaluation several type weights.</figcaption></figure>
+<figure><img src="/projects/bids/bids_branding_04.jpg"><figcaption>Final logo design, including an acronym variation of the logo.</figcaption></figure>
+
+<figure><img src="/projects/bids/bids_design_01.jpg"><figcaption>Homepage design, which highlights upcoming events, latest news, and videos of recent lectures.</figcaption></figure>
+<figure><img src="/projects/bids/bids_design_02.jpg"><figcaption>Main landing page for Projects, which can be filtered by major research areas.</figcaption></figure>
+<figure><img src="/projects/bids/bids_design_03.jpg"><figcaption>A project page, highlighting affiliated project members and related topic tags.</figcaption></figure>
+<figure><img src="/projects/bids/bids_design_04.jpg"><figcaption>BIDS includes a large roster of research fellows and staff, each with varying research area specialties.</figcaption></figure>
+<figure><img src="/projects/bids/bids_design_05.jpg"><figcaption>Detail page for a BIDS member</figcaption></figure>
+<figure><img src="/projects/bids/bids_design_06.jpg"><figcaption>Events include an ongoing lecture series with external speakers, internal social events, and conferences.</figcaption></figure>
+<figure><img src="/projects/bids/bids_design_07.jpg"><figcaption>The landing page for an event was designed to be clean and easy to digest quickly.</figcaption></figure>
+
+<figure><img src="/projects/bids/bids_ux_01.jpg"><figcaption>A selection of wireframes, showing some of the common structures of the site.</figcaption></figure>
+<figure><img src="/projects/bids/bids_ux_02.jpg"><figcaption>BIDS site map</figcaption></figure>
+</div>
