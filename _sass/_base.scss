@@ -1,4 +1,9 @@
 /**
+ * Load fonts
+ */
+@import url('https://rsms.me/inter/inter-ui.css');
+
+/**
  * Reset some basic elements
  */
 body, h1, h2, h3, h4, h5, h6,
@@ -11,10 +16,6 @@ dl, dd, ol, ul, figure {
 *, *:before, *:after{
 	box-sizing: Border-box;
 }
-
-// Load fonts
-@import url('https://rsms.me/inter/inter-ui.css');
-
 
 /**
  * Basic styling
