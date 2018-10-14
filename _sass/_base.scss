@@ -12,6 +12,8 @@ dl, dd, ol, ul, figure {
 	box-sizing: Border-box;
 }
 
+// Load fonts
+@import url('https://rsms.me/inter/inter-ui.css');
 
 
 /**
@@ -26,7 +28,7 @@ body {
     font-weight: 300;
     color: $text-color;
     background-color: $background-color;
-    
+
     	@include media-query($on-palm) {
     	padding:0;
     	margin:0;
@@ -94,7 +96,7 @@ img {
 figure{
 	margin-bottom: $spacing-unit * 2;
 }
- 
+
 figure > img {
     display: block;
 }
@@ -301,14 +303,14 @@ pre {
         padding-right: $spacing-unit / 2;
         padding-left: $spacing-unit / 2;
     }
-    
+
 	@include media-query($on-palm) {
 		margin:0;
 		padding:0 20px;
 		max-width: none;
 	}
-    
-    
+
+
 }
 
 
@@ -349,11 +351,11 @@ pre {
   content: "";
   display: table;
 }
- 
+
 .clearfix:after {
   clear: both;
 }
- 
+
 .clearfix {
   zoom: 1; /* ie 6/7 */
 }
