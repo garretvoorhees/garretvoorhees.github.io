@@ -15,10 +15,10 @@
 }
 
 .fight-stick .start, .fight-stick .back{
-    display:none;
+    visibility:hidden;
 }
 
 /* 3 Buttons Only */
 .fight-stick .x, .fight-stick .y, .fight-stick .bumper, .fight-stick .trigger-button.left{
-    display:none;
+    visibility: hidden;
 }
