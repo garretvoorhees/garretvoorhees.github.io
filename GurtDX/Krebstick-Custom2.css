@@ -10,8 +10,8 @@
 
 
 /* HIDDEN ELEMENTS */
-.controller .fight-stick{
-    background:url(#);
+.controller.fight-stick{
+    background-image:none;
 }
 
 .fight-stick .start, .fight-stick .back{
