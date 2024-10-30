@@ -8,12 +8,14 @@
     border:4px solid #AC27C3;
 }
 
+.fight-stick.disconnected {
+    background: url(https://garretvoorhees.github.io/GurtDX/disconnected.svg) no-repeat;
+}
 
 /* HIDDEN ELEMENTS */
 .controller.fight-stick{
     background-image: url(https://garretvoorhees.github.io/GurtDX/base-8btn.svg);
 }
-
 .fight-stick .start, .fight-stick .back{
     visibility:hidden;
 }
