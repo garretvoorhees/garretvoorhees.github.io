@@ -1,0 +1,19 @@
+/* CUSTOMIZATION */
+.fight-stick .fstick{
+    background: url(https://garretvoorhees.github.io/GurtDX/Krebstick-Joystick.svg);
+}
+
+.fight-stick .button, .fight-stick .trigger-button, .fight-stick .bumper{
+    background: #7C128E;
+    border:4px solid #AC27C3;
+}
+
+
+/* HIDDEN ELEMENTS */
+.controller.fight-stick{
+    background-image: url(https://garretvoorhees.github.io/GurtDX/base-8btn.svg);
+}
+
+.fight-stick .start, .fight-stick .back{
+    visibility:hidden;
+}
