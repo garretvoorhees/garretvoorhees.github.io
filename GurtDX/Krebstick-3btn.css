@@ -11,7 +11,7 @@
 
 /* HIDDEN ELEMENTS */
 .controller.fight-stick{
-    background-image:none;
+    background-image: url(https://garretvoorhees.github.io/GurtDX/base-3btn.svg);
 }
 
 .fight-stick .start, .fight-stick .back{
